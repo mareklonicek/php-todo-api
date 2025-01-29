@@ -1,0 +1,15 @@
+{
+    "name": "marek/php-todo-api",
+    "autoload": {
+        "psr-4": {
+            "Marek\\PhpTodoApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marek Loníček",
+            "email": "mark.lonicek@seznam.cz"
+        }
+    ],
+    "require": {}
+}
